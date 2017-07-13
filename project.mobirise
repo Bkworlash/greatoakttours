@@ -189,51 +189,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "images": [
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/index1-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/index1-2000x1332.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/index3-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/index3-2000x1332.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/index4-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/index4-2000x1332.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/index3-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/index3-2000x1332.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#4c6972",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": false
-          },
-          "_anchor": "gallery1-6",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "slider",
           "_params": {
             "autoplay": true,
